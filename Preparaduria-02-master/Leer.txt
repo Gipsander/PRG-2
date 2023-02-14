@@ -9,4 +9,4 @@ está creando nuevos puntos, por esto se puede acceder directamente a los atribu
 
 
 
-Cree los setters para cada caso e hice la sobrecarga del operador de suma
+Cree los setters para cada caso e hice la sobrecarga del operador de resta
