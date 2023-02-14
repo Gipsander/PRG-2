@@ -1,0 +1,12 @@
+● Responder: ¿Por qué si los atributos "origen" y "fin" de los vectores son private, se pueden
+acceder desde la sobrecarga del operador sin usar "getters"?
+
+No se requiere el uso de getters en este caso porque la sobrecarga del operador directamente
+está creando nuevos puntos, por esto se puede acceder directamente a los atributos aunque sean privados.
+
+
+
+
+
+
+Cree los setters para cada caso e hice la sobrecarga del operador de suma
