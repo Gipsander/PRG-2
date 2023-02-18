@@ -1,0 +1,8 @@
+C:\Users\gipso\source\repos\Prepa-03-master\Prepa 03\bin\Debug\Prepa 03.exe.config
+C:\Users\gipso\source\repos\Prepa-03-master\Prepa 03\bin\Debug\Prepa 03.exe
+C:\Users\gipso\source\repos\Prepa-03-master\Prepa 03\bin\Debug\Prepa 03.pdb
+C:\Users\gipso\source\repos\Prepa-03-master\Prepa 03\obj\Debug\Prepa 03.csproj.AssemblyReference.cache
+C:\Users\gipso\source\repos\Prepa-03-master\Prepa 03\obj\Debug\Prepa 03.csproj.SuggestedBindingRedirects.cache
+C:\Users\gipso\source\repos\Prepa-03-master\Prepa 03\obj\Debug\Prepa 03.csproj.CoreCompileInputs.cache
+C:\Users\gipso\source\repos\Prepa-03-master\Prepa 03\obj\Debug\Prepa 03.exe
+C:\Users\gipso\source\repos\Prepa-03-master\Prepa 03\obj\Debug\Prepa 03.pdb
