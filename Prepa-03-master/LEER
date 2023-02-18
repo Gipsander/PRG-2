@@ -1,0 +1,2 @@
+Añadi la clase "Triangulo" con sus metodos GetArea y GetPerimetro, asi mismo cree las subclases "Escaleno, Equilatero e Isosceles".
+Pude crear los atributos Lado1, Lado2 y Lado3, sin embargo no lo hice para mas sencillez a la hora de este ejemplo de Herencia, es decir los lados pudieron tener medidas distintas.
